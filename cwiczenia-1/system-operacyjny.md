@@ -6,7 +6,7 @@ Charakterystyka systemu operacyjnego
 
 | Charakterystyka | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| nazwa      | linux | Ubuntu |
+| nazwa      | Linux | Ubuntu |
 | program (parametry sieci)      | Oracle VM VirtualBOX | Mostkowana karta sieciowa (bridged)  |
 
 
