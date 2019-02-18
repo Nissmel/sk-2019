@@ -6,8 +6,8 @@ Charakterystyka systemu operacyjnego
 
 | Charakterystyka | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| nazwa      | linux | centos 7 |
-| program (parametry sieci)      | niewiem |  |
+| nazwa      | linux | Ubuntu |
+| program (parametry sieci)      | Oracle VM VirtualBOX | Mostkowana karta sieciowa (bridged)  |
 
 
 Konfiguracja połączenia sieciowego
@@ -15,19 +15,12 @@ Konfiguracja połączenia sieciowego
 
 | Parametr | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| Adres IP      | XX.XX.XX.XX | przydzielony przez DHCP |
-| Maska podsieci      |  |  |
-| Brama      |  |  |
-| DNS 1      |  |  |
-| DNS 2      |  |  |
+| Adres IP      | 10.0.2.15 | przydzielony przez DHCP |
+| Maska podsieci      | 255.255.0.0| route -n |
+| Brama      | 169.254.0.0 | route -n |
+| DNS 1      | 10.10.0.8 | Network settings |
+| DNS 2      | 10.10.0.4 | Network settings |
 
 Schemat sieci
 -------------
-
-aby załączyć obrazek 
-
-```markdown
-![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
-
-![alt schemat](images/my-network-schema.png)
-```
+![alt schemat](https://github.com/Nissmel/sk-2019/blob/master/Untitled%20Diagram.png)
