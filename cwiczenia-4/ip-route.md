@@ -13,8 +13,13 @@ ip
 -------------------------
 | subcommand    |  polecenie   | opis  |
 | ------------- |:-------------| :---------------| 
-|   ``route``    |                               | |
-|               |   ``ip route add``             | |
+|   ``route``   |  ``ip``          | |
+|               |   ``ip addr``| ``przypisanie adresu IP do interface``|
+|               |   ``ip route add``| ``dodanie scieżki``|
+|               |   ``ip route add default via 10.0.10.1``|``dodanie scieżki domyslnie``|
+|               |   ``ip route show``|``wyświetlenie ścieżki``|
+|               |   ``ip route get 10.10.15`` |``wsprawdzenie gdzie zostanie wysłany adres``|
+|               |   ``echo 1> /proc/sys/net.ipv4/ip_forward`` |``forwardowanie pakietów``|
 
 
 Zadanie
