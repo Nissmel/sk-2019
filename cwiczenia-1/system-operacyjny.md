@@ -23,4 +23,4 @@ Konfiguracja połączenia sieciowego
 
 Schemat sieci
 -------------
-![alt schemat](https://github.com/Nissmel/sk-2019/blob/master/Untitled%20Diagram.png)
+![alt schemat](https://github.com/Nissmel/sk-2019/blob/master/cwiczenia-1/Untitled%20Diagram.png)
