@@ -25,7 +25,7 @@ ip
 Zadanie
 ------------
 
-![zadanie 4](pobrane.svg)
+![zadanie 4](https://github.com/Nissmel/sk-2019/blob/master/cwiczenia-4/pobrane.svg)
 
 1.
    * Przygotuj konfigurację sieci zgodnie z powyższym diagramem, 
