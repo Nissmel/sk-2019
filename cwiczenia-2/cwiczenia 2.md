@@ -60,6 +60,18 @@ Efekt
 ```
 ```
 
+
+Dopisane:
+-------------------------
+|polecenia|
+|---------|
+|iface enp0s8 inet static|
+|address 192.168.200.1|
+|netmask 255.255.255.0|
+|up ip route add  192.168.0.0/24 via 192.168.200.2|
+|down ip route del 192.168.0.0/24|
+
+
 Nowa statyczna konfiguracja 
 
 -------------------------
