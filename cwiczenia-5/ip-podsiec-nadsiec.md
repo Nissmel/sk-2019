@@ -50,7 +50,7 @@ routing
 Zadanie
 ------------
 
-![zadanie 5](https://github.com/Nissmel/sk-2019/blob/master/cwiczenia-5/pobrane.svg)
+![zadanie 5](https://github.com/Nissmel/sk-2019/blob/master/cwiczenia-5/1.svg)
 
 1.
    * Przygotuj konfigurację sieci zgodnie z powyższym diagramem
