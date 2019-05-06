@@ -6,7 +6,7 @@ NAT - Network address translation
 Zadanie
 ------------
 
-![zadanie 7](nat-1.svg)
+![zadanie 7](https://github.com/Nissmel/sk-2019/blob/master/cwiczenia-7/1.svg)
 
 1.
    * Przygotuj konfigurację sieci zgodnie z powyższym diagramem
@@ -19,8 +19,7 @@ Zadanie
    * Przygotuj dokumentację powyższego procesu
    *  **czy istnieje różnica keżeli adres eth0 statyczny/dynamiczny? Jeżeli to jaka?**
 
-
-![zadanie 7](nat-2.svg)
+![zadanie 7](https://github.com/Nissmel/sk-2019/blob/master/cwiczenia-7/2.svg)
 
 2. 
     * Przygotuj konfigurację sieci zgodnie z powyższym diagramem
